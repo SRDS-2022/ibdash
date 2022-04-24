@@ -34,6 +34,12 @@ An sample command for execution:
 ```
 $python ibdash.py --app lightgbm --mc ED_mc_gbm.xlsx 
 ```
-which runs the orchestration for lightgbm application
+which runs the orchestration for lightgbm application.
+
+The result will give the corresponding average end-to-end latency under each scheme and the probability of failure.
+
+
+
+
 
 
