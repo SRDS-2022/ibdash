@@ -32,7 +32,7 @@ To execute ibdash.py, you will need to specify the application need to be orches
 
 An sample command for execution: 
 ```
-$python ibdash.py --app lightgbm --mc ED_mcgbm.xlsx 
+$python ibdash.py --app lightgbm --mc ED_mc_gbm.xlsx 
 ```
 which runs the orchestration for lightgbm application
 
