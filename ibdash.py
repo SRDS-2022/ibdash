@@ -13,7 +13,7 @@ import math
 import random
 import json
 
-from helpers import insert_edge_device, insert_task, app_stage, task_info, cpu_regression_setup,latency_regression_setup,dag_linearization
+from helpers import insert_edge_device, insert_task, app_stage, task_info, cpu_regression_setup,latency_regression_setup,dag_linearization, trans_time_estimate,task_info_update
 from helpers import plot as dagplot
 from matplotlib import pyplot as plt
 from matplotlib.animation import FuncAnimation
